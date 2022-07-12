@@ -1,1 +1,7 @@
-# freecodecamp
+# freeCodeCamp projects
+## JavaScript Algorithms and Data Structures
+* [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker): [solution](https://github.com/RakoGa/freecodecamp/blob/main/javascript-algorithms-and-data-structures/palindrome_checker.js)
+* [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter): [solution](https://github.com/RakoGa/freecodecamp/blob/main/javascript-algorithms-and-data-structures/roman_numeral_converter.js)
+* [Caesars Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher): [solution](https://github.com/RakoGa/freecodecamp/blob/main/javascript-algorithms-and-data-structures/caesars_cipher.js)
+* [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator): [solution](https://github.com/RakoGa/freecodecamp/blob/main/javascript-algorithms-and-data-structures/telephone_number_validator.js)
+* [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register): [solution](https://github.com/RakoGa/freecodecamp/blob/main/javascript-algorithms-and-data-structures/cash_register.js)
